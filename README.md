@@ -22,7 +22,7 @@ Demonstrates CRUD operations, RESTful API design, backend–frontend integration
 
 ---
 
-## ▶️ Run Locally
+## Run Locally
 ```bash
 npm install
 npm start
